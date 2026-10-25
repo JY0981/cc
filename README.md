@@ -2,9 +2,11 @@
 
 一个适合个人主理人的美食团购静态网站演示，包含商品筛选、试吃笔记、成团进度、购物清单与演示结账流程。
 
-## GitHub Pages
+## 在线访问
 
-仓库连接 GitHub Pages 后，可直接从默认分支的根目录发布。
+[打开公开网站](https://htmlpreview.github.io/?https://raw.githubusercontent.com/JY0981/cc/main/index.html)
+
+网站源码已保存在本仓库根目录，并包含 `.nojekyll`，可继续切换到 GitHub Pages 正式托管。
 
 ## 使用说明
 
